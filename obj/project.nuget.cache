@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hsz5JlfHzbD9mqTNYe2ugnYoCAoqUqzCjRWc2hV/3GXA/7V2TlVd9t4JYug2sB94I2SUoX1ohPv56BoyxWM2mQ==",
+  "success": true,
+  "projectFilePath": "/Users/vik/ApiFramework/ApiFramework/ApiFramework.csproj",
+  "expectedPackageFiles": [
+    "/Users/vik/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
+    "/Users/vik/.nuget/packages/restsharp/110.2.0/restsharp.110.2.0.nupkg.sha512",
+    "/Users/vik/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/vik/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/vik/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
